@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 public class t3 {
     public static void main(String[] args) {
         int[] numbers = {5, 12, -3, 8, 1, 9, 5, -1};
